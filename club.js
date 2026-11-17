@@ -91,3 +91,4 @@ const membre = membres.find(m => m.prenom === "Yasmine");
 console.log(membre);
 console.log(membre.age);
 console.table(membres);
+/exercice 5:
